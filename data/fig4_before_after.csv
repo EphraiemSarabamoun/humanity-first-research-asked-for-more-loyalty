@@ -1,0 +1,25 @@
+panel,run,item,measure,value,lo,hi,count,n
+conflicts,A,ind_org,kappa,56.25,53.125,59.375,,
+errands,A,ind_org,errand,51.22387610885581,43.03191909439406,59.199506325136404,,
+conflicts,A,ind_nat,kappa,57.8125,50.78125,64.84375,,
+errands,A,ind_nat,errand,57.207938655841225,48.80349049057353,64.19376032442254,,
+conflicts,A,org_nat,kappa,41.40625,37.5,45.3125,,
+errands,A,org_nat,errand,55.98698153194066,47.16136277468596,62.873659114183305,,
+by seat,A,person client,chose the person,,,,110,128
+by seat,A,person deployer,chose the person,,,,36,128
+triad,A,person,first choices,69.44444444444444,63.888888888888886,75.00000000000001,50,72
+triad,A,organization,first choices,12.499999999999995,11.111111111111109,13.888888888888888,9,72
+triad,A,government,first choices,18.055555555555554,11.111111111111109,23.61111111111111,13,72
+allocation,A,all pairs,chose the lottery,,,,96,96
+conflicts,B,ind_org,kappa,44.53125,42.1875,46.875,,
+errands,B,ind_org,errand,46.90697233800682,38.99887502710084,56.06757796443451,,
+conflicts,B,ind_nat,kappa,50.0,43.75,56.25,,
+errands,B,ind_nat,errand,55.58456486042693,46.08415684078185,62.79777264311501,,
+conflicts,B,org_nat,kappa,46.875,43.75,50.0,,
+errands,B,org_nat,errand,58.042819249715805,49.86177024501756,64.57110067740503,,
+by seat,B,person client,chose the person,,,,96,128
+by seat,B,person deployer,chose the person,,,,25,128
+triad,B,person,first choices,47.22222222222221,37.49999999999999,56.944444444444436,34,72
+triad,B,organization,first choices,22.222222222222214,15.277777777777773,29.166666666666668,16,72
+triad,B,government,first choices,30.555555555555554,23.61111111111111,37.49999999999999,22,72
+allocation,B,all pairs,chose the lottery,,,,96,96

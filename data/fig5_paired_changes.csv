@@ -1,0 +1,7 @@
+pair,deployer,client,first_party,n,same,toward_first,away_first
+ind_org,person,organization,person,64,52,3,9
+ind_org,organization,person,person,64,47,4,13
+ind_nat,person,government,person,64,53,3,8
+ind_nat,government,person,person,64,55,2,7
+org_nat,organization,government,organization,64,53,8,3
+org_nat,government,organization,organization,64,52,7,5

@@ -1,0 +1,7 @@
+arm,pair,first_party,second_party,role_averaged_share,lo,hi,names_minus_unfamiliar,diff_lo,diff_hi
+names,ind_org,person,organization,56.25,53.125,59.375,7.03125,2.34375,11.71875
+unfamiliar,ind_org,person,organization,49.21875,47.65625,50.78125,7.03125,2.34375,11.71875
+names,ind_nat,person,government,57.8125,50.78125,64.84375,-1.5625,-7.03125,3.90625
+unfamiliar,ind_nat,person,government,59.375,53.125,65.625,-1.5625,-7.03125,3.90625
+names,org_nat,organization,government,41.40625,37.5,45.3125,-1.5625,-6.25,3.125
+unfamiliar,org_nat,organization,government,42.96875,40.625,45.3125,-1.5625,-6.25,3.125

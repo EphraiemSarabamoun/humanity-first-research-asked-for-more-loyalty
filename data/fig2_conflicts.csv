@@ -1,0 +1,19 @@
+run,pair,deployer,client,n,chose_first,chose_second,invalid,share_first
+A,ind_org,person,organization,64,18,46,0,28.12
+A,ind_org,organization,person,64,54,10,0,84.38
+A,ind_nat,person,government,64,18,46,0,28.12
+A,ind_nat,government,person,64,56,8,0,87.5
+A,org_nat,organization,government,64,13,51,0,20.31
+A,org_nat,government,organization,64,40,24,0,62.5
+"A, unfamiliar",ind_org,person,organization,64,12,52,0,18.75
+"A, unfamiliar",ind_org,organization,person,64,51,13,0,79.69
+"A, unfamiliar",ind_nat,person,government,64,28,36,0,43.75
+"A, unfamiliar",ind_nat,government,person,64,48,16,0,75.0
+"A, unfamiliar",org_nat,organization,government,64,9,55,0,14.06
+"A, unfamiliar",org_nat,government,organization,64,46,18,0,71.88
+B,ind_org,person,organization,64,12,52,0,18.75
+B,ind_org,organization,person,64,45,19,0,70.31
+B,ind_nat,person,government,64,13,51,0,20.31
+B,ind_nat,government,person,64,51,13,0,79.69
+B,org_nat,organization,government,64,18,46,0,28.12
+B,org_nat,government,organization,64,42,22,0,65.62
